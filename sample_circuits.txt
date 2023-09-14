@@ -15,6 +15,10 @@ w 416 160 368 160 0
 w 368 240 416 240 0
 w 464 240 416 240 0
 w 416 240 416 288 0
-x -25 82 89 85 4 15 Circuit\s1\s-\sSimple
-x 174 83 284 86 4 15 Circuit\s2\s-\sSeries
-x 355 84 473 87 4 15 Circuit\s3\s-\sParallel
+x -25 82 87 85 4 15 Circuit\s1\s-\sSimple
+x 174 83 283 86 4 15 Circuit\s2\s-\sSeries
+x 355 84 470 87 4 15 Circuit\s3\s-\sParallel
+g -16 288 -16 336 0
+g 80 288 80 336 0
+g 224 288 224 336 0
+g 416 288 416 336 0
